@@ -1,0 +1,2 @@
+Q. write a program to get a price value which is returnable to a seller and 
+   we have to find out how many notes of rupees types we have to pay to the seller ?  
