@@ -1,0 +1,91 @@
+These Following Questions Are Of :
+:> Simple Dimensional Array 
+:> Having 10 Elements and 
+:> Using Extra Array Is Not Allowed. 
+
+Q.1 Short An Array In Ascending Order ?                                              	 ::> \\ DONE//
+
+Q.2 Left Shift Array Elements By One Position ?                                      	 ::> \\ DONE//
+1 2 3 4 
+2 3 4 0  
+Note :- 1 removed and in the last index 0 will fill.
+
+Q.3 Circular Left Shift Array Elements By 1 Position ?               		         ::> \\ DONE//               
+1 2 3 4 
+2 3 4 1  
+Note :- 1 will place at 3rd index no.
+
+Q.4 Read A single Digit Number 'n' And Left Shift Array Elements By 'n' Position ?    	 ::> \\ DONE// 
+1 2 3 4 5 6
+4 5 6 0 0 0
+Note :- 'n' Is User Input And This Is Nth Array Index Number. n-1 Array Index 
+        Will Be OverWrite And Blank Index Will Be FillUp By '0'.
+
+Q.5 Circular Left Shift Array Elements By 'n Position ?					 ::> \\ DONE//
+1 2 3 4 5 6
+4 5 6 1 2 3
+Note :- 'n' Is User Input And This Is Nth Array Index Number. n-1 Array Index 
+         Will Be OverWrite By Nth And n+iTH Number.
+
+Q.6 Read 10 Single Digit Numbers And Display Horizontal Histogram ?			 ::> \\ DONE//
+Note :- Like 10 Digits Are :: 4 3 7 2 1 4 3 7 2 1 :: Then Horizontal Histogram 
+Will Be Printed Like This...
+* * * *
+* * *
+* * * * * * * 
+* *
+*
+* * * * *
+* * * *
+* * *
+* * * * * * * 
+* *
+*
+* * * * *
+
+Q.7  Read 10 Single Digit Numbers And Display Vertical Histogram ?			::> \\ DONE//
+Note :- Like 10 Digits Are :: 4 3 7 2 1 4 3 7 2 1 :: Then Vertical Histogram 
+Will Be Printed Like This...  
+   
+    *         *
+    *         *
+    *         *
+*   *     *   *
+* * *     * * *
+* * * *   * * * *
+* * * * * * * * * *
+
+These Following Questions Are Of :
+:> Double Dimensional(2D) Array 
+:> Having 3X3 Indexes and 
+:> Using Extra Array Is Allowed. 
+
+Q.8 To Transpose a Metrix ?								::> \\ DONE//
+
+Q.9 To Multiply 2 Metrices ?								::> \\ DONE//
+
+Q.10 To Display Rowwise Total Of A Metrix ?						::> \\ DONE//
+
+Q.11 To Display ColumnWise Total Of A Metrix ?						::> \\ DONE//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

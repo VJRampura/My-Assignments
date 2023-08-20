@@ -1,0 +1,56 @@
+Q. Generate a single digit no. and display its factorial ?
+Q. Generate 2 single digit no. and calculate 1'st no.'s power 2nd no. ?
+Q. Generate 2 numbers and display their greatest common divisor ?
+Q. Generate a 5 digit random no. and display sum of it's digits ?
+Q. generate a 5 digit random no. and a single digit no. and check whether
+    single digit no. appears in the multiple digit no. or not . if yes
+    then count the appearences ?
+Q. Generate 10 numbers and display maximum and minimum no. of them ?
+Q. Generate 10 single digit numbers and display maximum alongwith no. of 
+    occurences ?
+Q. Generate a single digit no. that represents no. of lines to be displayed 
+    and write program to generate some patterns ?
+patterns are ::>
+
+1
+22
+333
+4444
+55555
+
+1
+222
+33333
+4444444
+555555555
+
+     1
+    121
+   12321
+  1234321
+ 123454321
+
+0
+10
+101
+0101
+01010
+101010
+
+0
+12
+345
+6789
+01234
+
+      * 
+     ** 
+    ***
+   ****
+  *****
+
+Q. Write a program to display all pallindroms between 1 to 100 ?
+Q. Write a program to display all super pallindroms between 1 to 100 ?
+Q. Write a program to display all armstrong numbers between 100 to 1000 ?
+Q. Write a program to display all prime numbers between 2 to 50 ?
+Q. Generate 10 random numbers and display the length of longest increasing series ?

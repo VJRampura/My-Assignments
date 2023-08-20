@@ -1,0 +1,17 @@
+Q. Write a program to check whether a String is Pallindrom or not ?  		||DONE||
+
+Q. Write a program to count number of words in a sentence ?			||DONE||
+
+Q. Write a program to remove extra speces from a sentence ?			||DONE||
+
+Q. Write a program to count number of vowels and consonants in a sentence ?	||DONE||
+
+Q. Write a program to sort all the names provided at the command prompt ?	||DONE||
+
+Q. Read a String and generate following pattern without using array ?		||DONE||
+   T R A I N
+   R A I N T
+   A I N T R
+   I N T R A
+   N T R A I
+   T R A I N

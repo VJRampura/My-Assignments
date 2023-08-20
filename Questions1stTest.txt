@@ -1,0 +1,3 @@
+generate 4 random no. and display max and min no. ?
+generate 4 random no. and display 3rd max no. ?
+generate 4 random no. and count howmany of them are even ?

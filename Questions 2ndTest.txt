@@ -1,0 +1,2 @@
+Q.1 Generate a 4 digit random no. and display it in words ?
+Q.2 Genenrate a 4 digitsrandom no. and display it in words along with its positional value ?
