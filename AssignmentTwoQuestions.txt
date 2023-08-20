@@ -1,0 +1,19 @@
+Q. Circular Left Shift Array Elements By 'n Position ?
+Like Input is :- 1 2 3 4 5 6
+Output is     :- 4 5 6 1 2 3
+Note :- 'n' Is User Input And This Is Nth Array Index Number. n-1 Array Index 
+         Will Be OverWrite By Nth And n+iTH Number.
+
+
+Q.  Read 10 Single Digit Numbers And Display Vertical Histogram ?
+Note :- Like 10 Digits Are :: 4 3 7 2 1 4 3 7 2 1 :: Then Vertical Histogram 
+Will Be Printed Like This...  
+   
+    *         *
+    *         *
+    *         *
+*   *     *   *
+* * *     * * *
+* * * *   * * * *
+* * * * * * * * * *
+

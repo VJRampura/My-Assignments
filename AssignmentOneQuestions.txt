@@ -1,0 +1,14 @@
+Q. Generate a single digit no. that represents no. of lines to be displayed 
+    and write program to generate this pattern ::>              (+5 NUMBER IN CERTIFICATE)
+patterns are ::>
+
+
+     1
+    121
+   12321
+  1234321
+ 123454321
+
+
+
+Q. Generate 10 random numbers and display the length of longest increasing series ? (+5 NUMBER IN CERTIFICATE)

@@ -1,0 +1,8 @@
+Q. Write a program for Rational class using all type of constructers ?
+Q. Write a program for Employee class using all type of constructers ?
+Q. Write a program for Matrix class using all type of constructers ?
+	(Matrix m1 = new Matrix() ;    //3X3
+	 Matrix m2 = new Matrix(5,4) ;    //5X4
+	 Matrix m3 = new Matrix(m2) ;    //5X4	)
+	* no instance variable other than array variable is not allowed(like 
+		for copy constructer ::> arr = m.arr ; X	)
