@@ -1,29 +1,6 @@
- import java.io.* ;
+import java.io.* ;
 class Matrix{
-	private int arr[][] ;
-
-	//default Constructor....
-
-	public Matrix() {
-		arr = new int[3][3] ;
-	}
-
-
-	//Parameterized Constructor....
-
-	public Matrix(int a, int b) {
-		arr = new int[a][b] ;
-		
-	}
-
-	//Copy Constructor....
-
-
-	public Matrix(Matrix m){
-		arr =  new int[m.arr.length][m.arr[0].length] ;
-		
-	}
-	
+	private int arr[][] = new int [3][3] ;
 	public void read() 
 	{
 		Console con = System.console();
