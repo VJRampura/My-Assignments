@@ -1760,4 +1760,8 @@ hides, or shadows, a field with the same name. In Example 3.2, the two parameter
 noOfWatts and indicator in the constructor of the Light class have the same names
 as the fields in the class. The example also declares a local variable location, which
 has the same name as one of the fields. The reference this can be used to distinguish the fields from the local variables. At (1), the this reference is used to identify
-the field noOfWatts, which is assigned the value of the parameter noOfWatts.
+the field noOfWatts, which is assigned the value of the parameter noOfWatts.kkkkkkk
+hhhhhhhh
+yyyyyyyyy
+PPPPPPP
+PPPPPPPPPP
